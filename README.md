@@ -2,7 +2,7 @@
 
 ### Hola, soy juan 👋
 
-<a href="https://instagram.com/juan_zuluaga_08/">
+<a href="https://www.instagram.com/juan_zuluaga_08/">
   <img align="left" alt="juan_zuluaga_08 Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
