@@ -1,3 +1,5 @@
+![yo_reposiorio](https://github.com/juanzulu/juanzulu/assets/124215942/af397f1c-e1d8-4edd-a7d0-278a782e1e16)
+
 ### Hola, soy juan 👋
 
 <a href="https://instagram.com/juan_zuluaga_08/">
@@ -16,10 +18,9 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Soy un apasionado estudiante de ingeniería de sistemas de la Pontificia Universidad Javeriana. Actualmente me encuentro en cuarto semetre, sin embargo, desde ya quiero empezar a realizar mis propios proyectos.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+Soy una persona optimista y dispuesto a aprender. Si mi perfil le llama la atención, no dude en contactarme.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -40,7 +41,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 - 🔭 Actualmente estoy trabajando en un proyecto llamado "curiosity".
-- 🌱 En este momento me encuentro explorando diferentes lenguajes/.
+- 🌱 En este momento me encuentro explorando diferentes lenguajes.
 - 👊 Estoy buscando colaborar con cualquiera que tenga la energía.
 - 🤔 Me gustaría tener ayuda en desarrollo web.
 - 💬 Preguntame acerca de lo que quieras
@@ -51,7 +52,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!--END_SECTION:waka-->
 
-📈 my github stats
+📈 Mis estadísticas en github:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=juanzulu&show_icons=true&theme=gotham" alt="Juanzulu" />
 
