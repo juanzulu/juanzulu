@@ -11,7 +11,7 @@
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Juan Zuluaga | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/juan-zuluaga-73a60520b/">
   <img align="left" alt="Juan Zuluaga LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   
 </a>
