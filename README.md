@@ -54,6 +54,6 @@ Soy una persona optimista y dispuesto a aprender. Si mi perfil le llama la atenc
 
 📈 Mis estadísticas en github:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=juanzulu&show_icons=true&theme=gotham" alt="Juanzulu" />
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanzulu&show_icons=true&theme=gotham" alt="Juanzulu" />
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanzulu&show_icons=true&theme=dracula)
+ ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanzulu&show_icons=true&theme=dracula)
