@@ -5,16 +5,6 @@
 <a href="https://www.instagram.com/juan_zuluaga_08/">
   <img align="left" alt="juan_zuluaga_08 Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.com/channels/@me">
-  <img align="left" alt="juan_zuluaga_08 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.png" />
-</a>
-<a href="https://twitter.com/junzulu28">
-  <img align="left" alt="Juan Zuluaga | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/juan-zuluaga-73a60520b/">
-  <img align="left" alt="Juan Zuluaga LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  
-</a>
 
 <br />
 
