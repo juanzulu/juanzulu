@@ -5,12 +5,11 @@
 <a href="https://www.instagram.com/juan_zuluaga_08/">
   <img align="left" alt="juan_zuluaga_08 Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
 <a href="https://www.linkedin.com/in/juan-zuluaga-73a60520b/">
   <img align="left" alt="juan_zuluaga_08 Linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
-<br />
+<br/><br>
 
 Soy un apasionado estudiante de ingeniería de sistemas de la Pontificia Universidad Javeriana. Actualmente me encuentro en cuarto semetre, sin embargo, desde ya quiero empezar a realizar mis propios proyectos.
 
