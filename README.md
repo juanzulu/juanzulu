@@ -38,7 +38,6 @@ Soy una persona optimista y dispuesto a aprender. Si mi perfil le llama la atenc
 - 💬 Preguntame acerca de lo que quieras
 - 💼 Algún trabajo independiente? contáctame, [email](mailto:junzulu28@gmail.com)
 - 📫 Puedes contactarme a través de mis redes sociales, estás estan al inicio del mural.
-- 😄 Pronombre: el
 - ⚡ Fun fact: Soy amante de los deportes.
 
 <!--END_SECTION:waka-->
