@@ -11,7 +11,7 @@
 
 <br>
 
-Soy un apasionado estudiante de ingeniería de sistemas de la Pontificia Universidad Javeriana. Actualmente me encuentro en cuarto semetre, sin embargo, desde ya quiero empezar a realizar mis propios proyectos.
+Soy un apasionado estudiante de ingeniería de sistemas de la Pontificia Universidad Javeriana.
 
 Soy una persona optimista y dispuesto a aprender. Si mi perfil le llama la atención, no dude en contactarme.
 
