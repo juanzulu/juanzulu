@@ -1,4 +1,4 @@
-![yo_reposiorio](https://github.com/juanzulu/juanzulu/assets/124215942/af397f1c-e1d8-4edd-a7d0-278a782e1e16)
+![PortadaProfesional](https://github.com/user-attachments/assets/cc669f38-3360-4635-a995-7f0469d95159)
 
 ### Hola, soy juan 👋
 
